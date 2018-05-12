@@ -1,0 +1,27 @@
+_repo: Humphrey-Bold--13-A-Story-of-the-Times-of-Benbow_16049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/39124
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+description: ''
+gutenberg_issued: '2005-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Benbow, John, 1653?-1702 -- Fiction'
+title: 'Humphrey Bold: A Story of the Times of Benbow'
+url: http://www.gutenberg.org/ebooks/16049
